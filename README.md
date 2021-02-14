@@ -28,10 +28,11 @@ function clicksellCounter() {
 </script>
 </head>
 
-<body bgcolor="#DFFF00">
+<body bgcolor="“#DFFF00”">
 
 <h1> DOGE COIN GOES UP BY 50%!  BRAKING NEWS AT 6:00 PM </h1>
 <p> (Click on the moving doge to see my YouTube) </p>
+<div class="nomics-ticker-widget" data-name="Dogecoin" data-base="DOGE" data-quote="USD"></div><script src="https://widget.nomics.com/embed.js"></script>
 
 
 
@@ -54,7 +55,6 @@ function clicksellCounter() {
 
 <input id="input" type="pin" autocomplete="on" spellcheck="true" aria-live="polite" placeholder="thoughts about dogecoin">
 
-
 <br>
 
 <a href="https://m.youtube.com/channel/UCIy_CfcAlPtpfnn2kpPTZiA" target="_blank"><img height="750" width="750" src="https://lh3.googleusercontent.com/fife/ABSRlIpcT3WMUgkOuHG6rylhGfso6db85GvecnVSkY2o6mr1BWetxkEF17QJLFFNoIYFEphW-fYRcyGovK-4jmsMZufePGDK-JWhBduYAFwXnop2Dr_xGKRgctEQHKpU_yjtV7GFY0IePAY5tQ8yMAMxi0lJmNsP595JhCruQywbQpmnbr5HLj1hOJLXjbkpPj_ecHpFWGcGzcRdWyQChaW9jlH1HHU_LXsoGqnsh5o4SxVdzIanLy4RI-WSc8hBbPa_OLBJjc7xwyOJWyb2ehCN0LlMLdDYAFIcJ2YWClxtAcUpiEaKLnIyhXRyap4clDPhsWE1HZ7fjEzk31doA2KG9IW744QVqOEq-O5HMB5plwJ13Ld9prQ5asF3THXKc0ePIK0woyDBmsgU39D-k8eaIBf6MbJEghodJQBvYl-of5ESg2UH5U1OhRfcv1fXsPdaTaV5cRT9ZkA9bCef8e3nUN2FQ4uUOeryOJvmcl9LgKYePkNigBbGAribVFO-hWjRxiyxDi4I2mD7dWArE69jD4LE95rNgOHbG87kRu2i1JDI6BphT-w1r8ZTGRwwYMtUgv0B_XDK_q-I0zywmO8vbCjR4RRgredRChr5bI-g0ZgD3bXTtZqej9wLWhfcip5bQmhDwqwDfOSOqOwkh-ocn3W5eG7CsAO1gpnpeZAv7loUQcm31RwSul-bIDNagGyLMFjoM4V2M3qaqoIjJtEQtl5_CiC7tpRwzBh22GoHb4z1jg=s64-c 
@@ -62,7 +62,7 @@ function clicksellCounter() {
 
 
 
-<h1> Songs </h1>
+</h1><h1> Songs </h1>
 
 <p>dogecoin song</p>
 
@@ -76,55 +76,16 @@ function clicksellCounter() {
 <iframe  frameborder="0"  width="400"  height="200"
   src="https://drive.google.com/file/d/1n8DX1K6c9qihRMv0-B4g1OJCNZ5DSS8_/preview">
 </iframe>
+<br />
+<a href="https://twitter.com/intent/tweet?button_hashtag=dogecoin&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #dogecoin</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <br />
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=DogeCoin&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #dogecoin</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"><
-<script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<title>Forms</title>
-
-
-<form action="mailto:"doodlebuggitybow@gmail.com" method="post">
+<form action="mailto:"nooosssss@gmail.com" method="post">
 <fieldset>
 <legend>
 Your details:
 </legend>
 Name :
 <input type="text" name="name" size="30" maxlength="100">
-
 
 Email:
 <input type="email" name="email" size="30" maxlength="100">
@@ -176,5 +137,8 @@ Comments:
 </form>.
 
 </body>
+
+<h1> Elons Musks House </h1>
+<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=3500%20Deer%20Creek,%20Palo%20Alto,%20CA&t=k&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">embed map html</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
 
 
