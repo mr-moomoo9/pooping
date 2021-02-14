@@ -28,7 +28,7 @@ function clicksellCounter() {
 </script>
 </head>
 
-<body bgcolor="“#DFFF00”">
+<body bgcolor=**#DFFF00**>
 
 <h1> DOGE COIN GOES UP BY 50%!  BRAKING NEWS AT 6:00 PM </h1>
 <p> (Click on the moving doge to see my YouTube) </p>
@@ -62,7 +62,7 @@ function clicksellCounter() {
 
 
 
-</h1><h1> Songs </h1>
+<h1> Songs </h1>
 
 <p>dogecoin song</p>
 
