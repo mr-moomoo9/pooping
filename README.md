@@ -62,7 +62,7 @@ function clicksellCounter() {
 
 
 
-</h1><h1> Songs </h1>
+<h1> Songs </h1>
 
 <p>dogecoin song</p>
 
